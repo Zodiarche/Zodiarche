@@ -2,7 +2,7 @@
 
 Développeur Web & Mobile basé à Bordeaux.
 
-Je construis des applications fullstack, du frontend au déploiement. Core Contributor & Community Lead sur l'écosystème open-source [Pokémon Workshop](https://github.com/PokemonWorkshop).
+Je conçois et développe des applications web, mobiles, desktop et des sites, de la conception au déploiement. Core Contributor & Community Lead sur l'écosystème open-source [Pokémon Workshop](https://github.com/PokemonWorkshop).
 
 ### Stack
 
