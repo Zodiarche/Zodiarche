@@ -20,7 +20,6 @@ Je construis des applications fullstack, du frontend au déploiement. Core Contr
 
 - [Portfolio OS](https://guillemin.dev) : portfolio interactif conçu comme un système d'exploitation
 - [Pokémon Workshop](https://github.com/PokemonWorkshop) : écosystème open-source de création de jeux, Core Contributor & Community Lead
-- [PokémonSDK](https://gitlab.com/pokemonsdk/pokemonsdk) : moteur de jeu 2D du projet, 1er contributeur hors staff
 
 ### Contact
 
