@@ -2,7 +2,7 @@
 
 Développeur Web & Mobile basé à Bordeaux.
 
-Je construis des applications fullstack, du frontend au déploiement. Core Contributor & Community Lead sur l'écosystème open-source [Pokémon Workshop](https://gitlab.com/pokemonsdk/pokemonsdk).
+Je construis des applications fullstack, du frontend au déploiement. Core Contributor & Community Lead sur l'écosystème open-source [Pokémon Workshop](https://github.com/PokemonWorkshop).
 
 ### Stack
 
@@ -19,7 +19,8 @@ Je construis des applications fullstack, du frontend au déploiement. Core Contr
 ### Projets
 
 - [Portfolio OS](https://guillemin.dev) : portfolio interactif conçu comme un système d'exploitation
-- [Pokémon Workshop](https://gitlab.com/pokemonsdk/pokemonsdk) : moteur de jeu 2D open-source, 1er contributeur hors staff
+- [Pokémon Workshop](https://github.com/PokemonWorkshop) : écosystème open-source de création de jeux, Core Contributor & Community Lead
+- [PokémonSDK](https://gitlab.com/pokemonsdk/pokemonsdk) : moteur de jeu 2D du projet, 1er contributeur hors staff
 
 ### Contact
 
