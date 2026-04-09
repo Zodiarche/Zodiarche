@@ -19,8 +19,8 @@ Je conçois et développe des applications web, mobiles, desktop et des sites, d
 ### Projets
 
 - [Portfolio OS](https://guillemin.dev) : portfolio interactif conçu comme un système d'exploitation
-- [Pokémon Workshop](https://github.com/PokemonWorkshop) : écosystème open-source de création de jeux, Core Contributor & Community Lead
+- [Pokémon Workshop](https://github.com/PokemonWorkshop) - [PSDK](https://gitlab.com/pokemonsdk/pokemonsdk) : écosystème open-source de création de jeux, Core Contributor & Community Lead
 
 ### Contact
 
-[guillemin.dev](https://guillemin.dev) · [LinkedIn](https://www.linkedin.com/in/benjamin-guillemin)
+[Portfolio](https://guillemin.dev) · [LinkedIn](https://www.linkedin.com/in/benjamin-guillemin)
