@@ -18,7 +18,6 @@ TypeScript, React, Next.js, React Native / Expo, Node.js (Fastify, Express), Pri
 ### Projets
 
 - [Portfolio OS](https://guillemin.dev) : portfolio interactif conçu comme un système d'exploitation
-- La Maison BSG : boutique en ligne pour une artisane, API, site web et application mobile de gestion (Next.js, Fastify, Prisma, Expo, Stripe)
 - Minitroopers : remake full-stack d'un jeu Flash (TypeScript, React, Express, Prisma)
 - [Pokémon Workshop](https://github.com/PokemonWorkshop) - [PSDK](https://gitlab.com/pokemonsdk/pokemonsdk) : écosystème open source de création de jeux, Core Contributor & Community Lead
 
