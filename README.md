@@ -1,15 +1,14 @@
 ## Benjamin Guillemin
 
-Développeur web et mobile à Bordeaux. Je crée, reprends et maintiens des applications web et mobiles pour les startups et les PME. J'aide aussi les PME à passer à la facture électronique (Factur-X) quand leur facturation vit dans un outil maison.
+Développeur web et mobile à Bordeaux. Je crée, reprends et maintiens des applications web et mobiles pour les entreprises.
 
-Freelance en entreprise individuelle, en parallèle d'un poste salarié.
+Freelance en entreprise individuelle.
 
 ### Ce que je fais
 
 - Création d'applications web et mobiles, du serveur à l'interface
 - Reprise de projets existants : état des lieux, remise en route, mises à jour
 - Maintenance au mois
-- Facture électronique : génération Factur-X et raccordement à une plateforme agréée
 
 ### Stack
 
